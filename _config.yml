@@ -1,0 +1,14 @@
+layout_spectrum: 0.02916057
+typography_spectrum: 0.3189497
+color:
+  saturation: 0.2787859
+  lightness: 0.1693696
+  brandStrength: 0.5035842
+  brandColors:
+    - '#15181E'
+    - '#FFFFFF'
+    - '#88A2C6'
+    - '#904A79'
+    - '#206688'
+  rhythmicContrast: 0.3862542
+name: NEKTARSTOCK
